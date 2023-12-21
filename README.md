@@ -1,5 +1,5 @@
 ### <p>Olá, eu sou o Pablo Barbosa Silva 👋</p>
-- Atualmente cursando Análise e Desenvolvimento de Sistemas em Caxias - MA;:cowboy_hat_face: <br>
+- Atualmente cursando Análise e Desenvolvimento de Sistemas em Caxias - MA; <br>
 - Estudando diariamente para se tornar um desenvolvedor melhor. :octocat:
 <hr>
 
