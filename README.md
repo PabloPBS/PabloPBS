@@ -5,5 +5,5 @@
 
 <p align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloPBS&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPBS&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPBS&layout=compact&theme=radical&hide=LLVM"/>
 </p>
